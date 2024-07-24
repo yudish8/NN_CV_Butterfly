@@ -1,0 +1,5 @@
+https://huggingface.co/spaces/nyomanyudisdeveloper/ButterflySpeciesClassifyCV (URL Deployment)
+
+https://www.kaggle.com/datasets/phucthaiv02/butterfly-image-classification/data ( Data kaggle)
+
+NOTE: Can only be run on google chrome for predict 
